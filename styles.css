@@ -1,4 +1,9 @@
+html{
+    overscroll-behavior-y: none;
+
+}
 body{
+    height: 100%;
     color: white;
     background-image:url(./images/background.png);
     background-repeat: no-repeat;
