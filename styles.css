@@ -84,4 +84,10 @@ body{
     margin: 0;
     text-align: center;
   }
+  .credits{
+    font-family: monospace;
+    color:black;
+    text-align: center;
+    font-size: 10px;
+  }
 
